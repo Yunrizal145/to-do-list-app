@@ -151,7 +151,7 @@ section{
 #list{
     position: relative;
     margin-top: 20px;
-    height: 350px;
+    height: 430px;
     overflow-y: auto;
     padding-right: 10px;
 }
