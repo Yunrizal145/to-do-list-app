@@ -35,7 +35,7 @@ section{
     border-radius: 20px;
     background: #8d99ae;
     padding: 30px 50px;
-    box-shadow: rgba(159, 204, 244, 0.48) 6px 2px 16px 0px, rgba(214, 239, 255, 0.8) -6px -2px 16px 0px;
+    box-shadow: rgba(159, 204, 244, 0.48) 6px 2px 16px 0px, rgba(214, 239, 255, 0.3) -6px -2px 16px 0px;
 }
 
 .cardSecond{
@@ -44,7 +44,7 @@ section{
     border-radius: 20px;
     background: #8d99ae;
     padding: 30px 50px;
-    box-shadow: rgba(159, 204, 244, 0.48) 6px 2px 16px 0px, rgba(214, 239, 255, 0.8) -6px -2px 16px 0px;
+    box-shadow: rgba(159, 204, 244, 0.48) 6px 2px 16px 0px, rgba(214, 239, 255, 0.3) -6px -2px 16px 0px;
 }
 
 .cardFirst h2{
